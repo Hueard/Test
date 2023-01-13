@@ -6,7 +6,7 @@ namespace Lesson1_Git_HW
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello Git!\n");
+            Console.Write("Goodbay Git!\n");
         }
     }
 }
